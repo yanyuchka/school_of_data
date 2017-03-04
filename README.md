@@ -46,7 +46,7 @@ What can we learn about people who have had visas approved?
 Broader context: :tada:
 
 + [Freakonomics podcast: Bad Medicine](http://freakonomics.com/podcast/bad-medicine-part-2-drug-trials-and-tribulations/)
-+ [OpenFDA portal](https://github.com/FDA/openfda)
++ [OpenFDA portal](https://github.com/FDA/openfda) :metal:
 
 ## Data
 
@@ -96,3 +96,7 @@ Eight steps to checking assumptions, ensuring that data means what you think it 
   - If you can’t find the precise owner, ask someone else who has used the data if they have a contact inside who can help you.
   - Or call the agency mainline and be nice and clear and persistent until you get transferred to the right person.
   - Generally when you ask, people are helpful. You’re putting their efforts to work.
+
+  ****
+
+** Dive into the schema! :smirk:
