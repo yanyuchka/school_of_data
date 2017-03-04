@@ -99,4 +99,4 @@ Eight steps to checking assumptions, ensuring that data means what you think it 
 
   ****
 
-** Dive into the schema! :smirk:
+\* Dive into the schema! :smirk:
