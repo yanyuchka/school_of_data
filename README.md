@@ -22,6 +22,8 @@ What can we learn about people who have had visas approved?
 
 [![H1B](attn_grab_pics/unsplash/nitish-meena-198784.jpg)](https://unsplash.com/photos/IFh4o-U-BGg)
 
+_For the fiscal year of 2016_:
+
 1. What positions have people with approved visas most frequently been hired for?
 2. What are  the average salaries? **Hint**: check `wage_rate` field.
 3. Where are the cities with the most H-1B visa employees?
