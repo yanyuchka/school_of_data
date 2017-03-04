@@ -4,7 +4,7 @@ Translating government data for the rest of us.
 
 [![NYC](attn_grab_pics/unsplash/nasa-43569.jpg)](https://unsplash.com/photos/_SFJhRPzJHs)
 
-This repository contains materials for [BetaNYC's School of Data](https://schoolofdata.nyc/) workshop "Open Data in Context". Note that this repository is intended to be updated every once in a while!
+This repository contains materials for [BetaNYC's School of Data](https://schoolofdata.nyc/) workshop "Open Data in Context." Note that this repository is intended to be updated every once in a while!
 
 ###### Authors:
 Eve Ahearn [@eveahe](https://twitter.com/eveahe) & Olga Ianiuk
@@ -39,18 +39,18 @@ What can we learn about people who have had visas approved?
 [![AERS](attn_grab_pics/unsplash/freestocks-org-126848.jpg)](https://unsplash.com/search/pills?photo=nss2eRzQwgw)
 
 
-1. What is the name of the drug that in 2016 caused the biggest number of adverse events? **Hint**: explore the `DRUG` [table](https://app.enigma.io/table/us.gov.fda.aers.drug.2016).
+1. What is the name of the drug that caused the biggest number of adverse events in 2016? **Hint**: explore the `DRUG` [table](https://app.enigma.io/table/us.gov.fda.aers.drug.2016).
 2. What is an example of the event that was caused? **Hint**: use `primaryid` & `caseid` to link with the `Patient Outcomes` [table](https://app.enigma.io/table/us.gov.fda.aers.outc.2016) in 2016.
 3. Can we trust the results? If not what context can we use?* (see a hint below).
 
 Broader context: :tada:
 
-+ [Freakonomics podcast: Bad Medicine](http://freakonomics.com/podcast/bad-medicine-part-2-drug-trials-and-tribulations/);
++ [Freakonomics podcast: Bad Medicine](http://freakonomics.com/podcast/bad-medicine-part-2-drug-trials-and-tribulations/)
 + [OpenFDA portal](https://github.com/FDA/openfda)
 
 ## Data
 
-Data can be browsed in Enigma public or downloaded from the source at the following links:
+Data can be browsed in Enigma Public or downloaded from the source at the following links:
 
 **Download from the source**
 
@@ -78,7 +78,7 @@ Eight steps to checking assumptions, ensuring that data means what you think it 
   - Examine each of these. Do the values match what you expect?
 3. **Hunt down code definitions.**
   - Do some of the columns you’re thinking of contain categorical codes or anything else not immediately obvious what it represents? If so, does the data dictionary contain definitions for said codes? If not, jump to step 8.
-4. **Check your summary stats.**
+4. **Check summary stats.**
   - For categorical columns, what’s the most frequently occurring value? For date fields, what’s the range of the dates? Check each column you’re thinking of using. Do these values make sense with what you would expect?
   - Some domain knowledge is valuable: e.g. a given record value is usually accompanied by a set of others “domain related” values.
   - Check suspicious values against the excellent [Quartz Bad Data Guide](https://github.com/Quartz/bad-data-guide). This guide also contains plenty of other kinds of oddities to check against.
