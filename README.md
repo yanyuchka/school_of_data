@@ -2,7 +2,7 @@
 
 Translating government data for the rest of us.
 
-[![H-1B](attn_grab_pics/unsplash/)]()
+[![NYC](attn_grab_pics/unsplash/nasa-43569.jpg)](https://unsplash.com/photos/_SFJhRPzJHs)
 
 This repository contains materials for [BetaNYC's School of Data](https://schoolofdata.nyc/) workshop "Open Data in Context". Note that this repository is intended to be updated every once in a while!
 
@@ -54,12 +54,12 @@ Data can be browsed in Enigma public or downloaded from the source at the follow
 
 **Download from the source**
 
-- [H-1B](https://www.foreignlaborcert.doleta.gov/performancedata.cfm)
+- [H-1B Data](https://www.foreignlaborcert.doleta.gov/performancedata.cfm)
 - [FDA AERS](https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm)
 
 **Browse in Enigma (export when needed)**
 
-- [H-1B](https://app.enigma.io/search/source/us.gov.dol.oflc)
+- [H-1B Data](https://app.enigma.io/search/source/us.gov.dol.oflc)
 - [FDA AERS](https://app.enigma.io/search/source/us.gov.fda.aers)
 
 ## What we mean by data in context
